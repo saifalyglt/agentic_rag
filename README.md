@@ -22,7 +22,7 @@ This repository provides an implementation of an **Agentic Retrieval-Augmented G
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your_username/agentic_rag.git
+git clone https://github.com/saifalyglt/agentic_rag.git
 cd agentic_rag
 pip install -r requirements.txt
 ```
